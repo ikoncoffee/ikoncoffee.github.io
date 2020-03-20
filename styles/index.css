@@ -1,0 +1,25 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.index_main {
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.caption {
+ 
+  text-align: center;
+  
+}
+
+p {
+  font-size: 30px;
+}
